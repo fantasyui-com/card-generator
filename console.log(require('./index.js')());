@@ -1,1 +1,1 @@
-console.log(require('./index.js')(card generator));
+console.log(require('./index.js')());
